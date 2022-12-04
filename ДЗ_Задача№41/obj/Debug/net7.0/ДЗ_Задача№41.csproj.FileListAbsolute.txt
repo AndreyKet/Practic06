@@ -1,0 +1,15 @@
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.csproj.AssemblyReference.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.AssemblyInfoInputs.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.AssemblyInfo.cs
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.csproj.CoreCompileInputs.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\bin\Debug\net7.0\ДЗ_Задача№41.exe
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\bin\Debug\net7.0\ДЗ_Задача№41.deps.json
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\bin\Debug\net7.0\ДЗ_Задача№41.runtimeconfig.json
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\bin\Debug\net7.0\ДЗ_Задача№41.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\bin\Debug\net7.0\ДЗ_Задача№41.pdb
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\refint\ДЗ_Задача№41.dll
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.pdb
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ДЗ_Задача№41.genruntimeconfig.cache
+C:\Users\manli\Desktop\GeekBrains\Lesson06\ДЗ_Задача№41\obj\Debug\net7.0\ref\ДЗ_Задача№41.dll
