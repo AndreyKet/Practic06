@@ -39,3 +39,4 @@ PrintArray(array);
 Console.WriteLine($"В массиве чисел больше нуля: {positiveValue}");
 
 
+

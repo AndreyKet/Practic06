@@ -4,6 +4,7 @@
 
 // b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5)
 
+
 Console.WriteLine("Для двух прямых\nзаданных уравнениями y = k1 * x + b1, y = k2 * x + b2.\nВведите значение b1, k1, b2, k2 : ");
 int b1 = int.Parse(Console.ReadLine());
 int k1 = int.Parse(Console.ReadLine());
@@ -24,3 +25,4 @@ else
     Console.WriteLine($"Х: {x}");
     Console.WriteLine($"Y: {y}");
 }
+
